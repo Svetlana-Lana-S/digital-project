@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.content-container {
+    width: 1170px;
+    margin: 0 auto;
+    
+    /* временный серый фон для удобства отладки */ 
+    background-color: darkgrey;
+}
